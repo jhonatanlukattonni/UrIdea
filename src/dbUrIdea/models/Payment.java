@@ -5,4 +5,5 @@ package dbUrIdea.models;
  */
 public class Payment {
     int hj;
+    int h;
 }
